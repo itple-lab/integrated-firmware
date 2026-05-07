@@ -4,7 +4,6 @@
   "board": "arduino:avr:uno",
   "file": "firmware.hex",
   "checksum": "69346F21563A4D230BCCD0915715F4CD4FDD55AC3418439D8525423B183F5419",
-  "download_url": "https://raw.githubusercontent.com/itple-lab/integrated-firmware/main/firmware/coconut/firmware.hex",
+  "download_url": "https://raw.githubusercontent.com/itple-lab/integrated_firmware/main/firmware/coconut/firmware.hex",
   "description": "코코넛 연동용 펌웨어"
 }
-
