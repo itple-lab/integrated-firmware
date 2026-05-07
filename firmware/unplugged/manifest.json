@@ -4,6 +4,6 @@
   "board": "arduino:avr:uno",
   "file": "firmware.hex",
   "checksum": "BA4FC026B362F6F3647A12A8F8EEF44C334D89DC55293131377891E0B3A2AE23",
-  "download_url": "https://raw.githubusercontent.com/itple-lab/integrated_firmware/main/firmware/unplugged/firmware.hex",
+  "download_url": "https://raw.githubusercontent.com/itple-lab/integrated-firmware/main/firmware/unplugged/firmware.hex",
   "description": "언플러그드용 아두이노 펌웨어"
 }
