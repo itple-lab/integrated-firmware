@@ -4,7 +4,7 @@
   "board": "arduino:avr:uno",
   "file": "firmware.hex",
   "checksum": "6762A1CDB6614EB04E3675AE268029E102567F5D6607B7543B8B52E8F0E41F61",
-  "download_url": "https://raw.githubusercontent.com/itple-lab/integrated-firmware/main/firmware/app/firmware.hex",
+  "download_url": "https://raw.githubusercontent.com/itple-lab/integrated-firmware/refs/heads/main/firmware/app/firmware.hex",
   "allowed_vid_pid": [
     {"vid": "0x2341", "pid": "0x0043"},
     {"vid": "0x2341", "pid": "0x0001"},
