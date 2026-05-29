@@ -1,9 +1,9 @@
 {
   "name": "unplugged",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "board": "arduino:avr:uno",
   "file": "firmware.hex",
-  "checksum": "FF429B1D348C58F2588189D6FF048B8C9F9A49862BE1C0724991ECCFD1A93439",
+  "checksum": "DE0008E74C0C5BC17482C124A2F65EB02986ABB255B1B21992759109F7905C3F",
   "download_url": "https://raw.githubusercontent.com/itple-lab/integrated-firmware/refs/heads/main/firmware/unplugged/firmware.hex",
   "allowed_vid_pid": [
     {"vid": "0x2341", "pid": "0x0043"},
