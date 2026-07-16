@@ -1,6 +1,6 @@
 {
   "name": "coconut",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "board": "arduino:avr:uno",
   "file": "firmware.hex",
   "checksum": "7DD68EB1B3586E67134B1AAA138B2F5514531FBBEEF35A3938FD9F2D79B13E73",
