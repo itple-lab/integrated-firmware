@@ -1,9 +1,9 @@
 {
   "name": "coconut",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "board": "arduino:avr:uno",
   "file": "firmware.hex",
-  "checksum": "86E20614AC4271405F76C00D3D58CA3E2637547EEB3FF3FA23496479F02095BC",
+  "checksum": "91B0EEFD7CF39C173A34B3F7D9885AD6CF76F5F6D8BCE3EB0D27FC888CA401F9",
   "download_url": "https://raw.githubusercontent.com/itple-lab/integrated-firmware/refs/heads/main/firmware/coconut/firmware.hex",
   "allowed_vid_pid": [
     {
